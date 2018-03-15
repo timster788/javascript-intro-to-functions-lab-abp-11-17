@@ -5,5 +5,5 @@ function shout(string) {
    return string.toLowerCase()
  }
    function logShout(string){
-     console.log(toUpperCase);
+     console.log(string.toUpperCase);
    }
